@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ab4de4a.chunk.css",
+    "main.js": "/static/js/main.19099317.chunk.js",
+    "main.js.map": "/static/js/main.19099317.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.206ac5b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.206ac5b9.js.map",
+    "static/js/2.7f4a27df.chunk.js": "/static/js/2.7f4a27df.chunk.js",
+    "static/js/2.7f4a27df.chunk.js.map": "/static/js/2.7f4a27df.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2d424a767346c9e1f158329198da7b38.js": "/precache-manifest.2d424a767346c9e1f158329198da7b38.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8ab4de4a.chunk.css.map": "/static/css/main.8ab4de4a.chunk.css.map",
+    "static/js/2.7f4a27df.chunk.js.LICENSE.txt": "/static/js/2.7f4a27df.chunk.js.LICENSE.txt",
+    "static/media/foto_01.png": "/static/media/foto_01.a9df2b16.png",
+    "static/media/foto_02.png": "/static/media/foto_02.a2089057.png",
+    "static/media/foto_03.png": "/static/media/foto_03.e64043de.png",
+    "static/media/foto_04.png": "/static/media/foto_04.d743c209.png",
+    "static/media/foto_05.png": "/static/media/foto_05.d1564a84.png",
+    "static/media/foto_06.png": "/static/media/foto_06.cea718d5.png",
+    "static/media/foto_07.png": "/static/media/foto_07.cc7e8123.png",
+    "static/media/foto_08.png": "/static/media/foto_08.3b1d031e.png",
+    "static/media/foto_09.png": "/static/media/foto_09.970b1d38.png",
+    "static/media/foto_10.png": "/static/media/foto_10.ac31830e.png",
+    "static/media/foto_11.png": "/static/media/foto_11.28ece604.png",
+    "static/media/foto_12.png": "/static/media/foto_12.c67c6390.png",
+    "static/media/foto_13.png": "/static/media/foto_13.ea2aa9c5.png",
+    "static/media/foto_14.png": "/static/media/foto_14.ea2aa9c5.png",
+    "static/media/foto_15.png": "/static/media/foto_15.ab15fa36.png",
+    "static/media/logo_renato.svg": "/static/media/logo_renato.ea20a8fb.svg",
+    "static/media/renativiris.jpg": "/static/media/renativiris.9b9dd222.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.206ac5b9.js",
+    "static/js/2.7f4a27df.chunk.js",
+    "static/css/main.8ab4de4a.chunk.css",
+    "static/js/main.19099317.chunk.js"
+  ]
+}
